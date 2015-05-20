@@ -159,3 +159,22 @@ footer {
 .myself{
     color: #28a4c9;
 }
+
+.hometext{
+    width: 70%;
+    padding: 0 0 10em 0;
+
+}
+
+.homepic{
+    width: 30%;
+    position: relative;
+    float: right;
+    margin: .75em 0 0 0;
+}
+
+.mypic {
+    margin: 5em 0 0 5em;
+    height: 18em;
+    width: 18em;
+}
