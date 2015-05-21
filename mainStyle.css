@@ -29,11 +29,24 @@ body {
 
 header {
     font-family: fantasy, cursive, "Times New Roman", serif;
+    /*font-family: Menlo, Monaco, Consolas, "Courier New", monospace;*/
     color: red;
     background-color: #000000;
     border: 0;
     padding: .5em .25em 0 1em;
     margin: 0;
+}
+
+h2 {
+    font-size: 2.25em;
+}
+
+h3 {
+    font-size: 2.25em;
+}
+
+h4{
+    font-size: 2.25em;
 }
 
 
@@ -104,7 +117,7 @@ header a p {
 
 section {
     background-color: #daeaff;
-    padding: 3em 1em 3em 1em;
+    padding: 3em 1em 8em 1em;
     margin: 0 1em 1em 1em;
     position: relative;
 }
